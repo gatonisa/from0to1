@@ -1,4 +1,4 @@
-# Welcome to My Repository!
+# Welcome to My Repository! 🐍
 Hi, I'm Isa! Thanks for dropping by my repository. 
 Here, you'll find a collection of projects covering a range of Python libraries, including NumPy, Pandas, Matplotlib, Seaborn, and SciPy. These projects delve into data processing, visualization, and making predictions using diverse datasets.
 Although you can find out what each project is about if you access them individually, here is a brief summary of each one of them:
