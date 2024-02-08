@@ -6,7 +6,8 @@ Although you can find out what each project is about if you access them individu
 ### 1. Pokemon Legendary Classifier
 The goal of this project is to analyze Pokémon data and clasifying Pokémon as legendary or not based on their attributes.
 
-### 2. Mall Customers Predictions 
+### 2. Forecasting TodoVentas SA Sales 
+The goal of this project is to analyze data for TodoVentas SA and forecast future sales.
 
 ## How to Contribute 🤝
 I'd love to hear your feedback and contributions! If you find any issues, have suggestions, or want to collaborate, don't hesitate to open an issue or send a pull request.
