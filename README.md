@@ -9,6 +9,6 @@ The goal of this project is to analyze Pokémon data and clasifying Pokémon as 
 ### 2. Forecasting TodoVentas SA Sales 📈
 The goal of this project is to analyze data for TodoVentas SA and forecast future sales.
 
-## How to Contribute 🤝
+## How to Contribute 
 I'd love to hear your feedback and contributions! If you find any issues, have suggestions, or want to collaborate, don't hesitate to open an issue or send a pull request.
 Thanks for your interest, and I hope you find something intriguing in this repository!
