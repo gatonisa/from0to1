@@ -1,5 +1,5 @@
 # A fintech project: Easy Money 💰
-This repository contains the code and associated documentation for the data analysis conducted for EasyMoney. The analysis is divided into three main parts: Analysis of the Current Situation, Customer Portfolio Segmentation, and Sales Prediction.
+This project contains the code and associated documentation for the data analysis conducted for EasyMoney. The analysis is divided into three main parts: Analysis of the Current Situation, Customer Portfolio Segmentation, and Sales Prediction.
 
 ### Part I: Analysis of the Current Situation
 In this section, a structured methodology was applied, ranging from data collection and cleaning to exploratory analysis of EasyMoney's current situation. The idea behind the EDA is to get an overall idea of where the company is at in terms of sales, revenue, customer profiles, etc. 
