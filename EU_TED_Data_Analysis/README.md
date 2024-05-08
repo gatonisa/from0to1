@@ -6,8 +6,8 @@ In this project, I delve into the realm of European public tenders within the In
 Public tenders are a vital component of the European market, shaping industries and economies. By applying RFM clustering to tender data in the IT sector, we aim to understand the dynamics of tender winners and their contributions to the technology landscape.
 
 ## Data Description
-The project utilizes European TED (Tenders Electronic Daily) data, a rich source of public procurement contracts. The data includes information on tender participants, contract details, and CPV codes (Common Procurement Vocabulary), providing a comprehensive view of the IT tender landscape. 
-Data link - https://data.europa.eu/data/datasets/ted-csv?locale=en
+The project utilizes [European TED (Tenders Electronic Daily) data](https://data.europa.eu/data/datasets/ted-csv?locale=en), a rich source of public procurement contracts. The data includes information on tender participants, contract details, and CPV codes (Common Procurement Vocabulary), providing a comprehensive view of the IT tender landscape. 
+
 
 ## Methodology
 ### 1. Initial Analysis
