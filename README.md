@@ -3,7 +3,7 @@ Hi, I'm Isa! Thanks for dropping by my repository.
 Here, you'll find a collection of projects covering a range of Python libraries, including NumPy, Pandas, Matplotlib, Seaborn, and SciPy. These projects delve into data processing, visualization, and making predictions using diverse datasets.
 Although you can find out what each project is about if you access them individually, here is a brief summary of each one of them:
 
-### 1. Fintech with EasyMoney
+### 1. Fintech with EasyMoney - WIP
 The goal of this project is to analyze a fintech company's current situation, come up with several client groups to customize marketing campaigns and create a model that predicts sales. 
 
 ### 2. Microsoft Malware Detection 🦠
