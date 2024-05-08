@@ -19,4 +19,4 @@ The goal of this project is to analyze data for TodoVentas SA and forecast futur
 I'd love to hear your feedback and contributions! If you find any issues, have suggestions, or want to collaborate, don't hesitate to open an issue or send a pull request.
 Thanks for your interest, and I hope you find something intriguing in this repository!
 
-Feel free to contact me through [LinkedIn](www.linkedin.com/in/isabelgaton) or via email (gatonisa@gmail.com).
+Feel free to contact me through [LinkedIn](https://www.linkedin.com/in/isabelgaton) or via email (gatonisa@gmail.com).
