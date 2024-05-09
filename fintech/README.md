@@ -17,6 +17,8 @@ A clustering approach was applied to divide the customer base into homogeneous g
 ### Part III: Sales Prediction
 The goal was to predict which customers are likely to contract a new product the following month using a decision tree. The methodology used, the results obtained, and the conclusions of the analysis are detailed. To avoid redundancy, only one prediction model was updated (feel free to ask for the rest of them).
 
+_DISCLAIMER: It is noteworthy to mention the weaknesses of the model attributed to limited data availability. Despite achieving notable accuracy in predicting clients maintaining their position within an EasyMoney product, significant errors arise when predicting subscriptions and cancellations. This discrepancy can be attributed to the scarcity of subscription and cancellation cases within our dataset, where the majority of individuals exhibit stable behavior. Consequently, the model's high accuracy, exceeding 98%, may not necessarily reflect its overall quality, as it primarily predicts the absence of changes in most instances._
+
 ## Repository Structure
 - code: Contains the scripts and code files used in the analysis and prediction.
 - data: Data files used in the analysis.
