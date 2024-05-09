@@ -39,7 +39,7 @@ Primarily reside in Madrid and Barcelona.
 Regarding accounts, most clients have multiple current accounts, and some have debit cards and payroll accounts. As for savings products, most clients have little presence in this type of product. Regarding financing, very few have credit cards. Despite having high incomes, this group shows limited participation in financing products, such as credit cards. This may indicate a more conservative approach to financial management, with a preference for liquidity and a lower willingness to take on debt or financial risks.
 
 ### Part III: Sales Prediction
-The goal was to predict which customers are likely to contract a new product the following month using a decision tree. The methodology used, the results obtained, and the conclusions of the analysis are detailed.
+The goal was to predict which customers are likely to contract a new product the following month using a decision tree. The methodology used, the results obtained, and the conclusions of the analysis are detailed. To avoid redundancy, only one prediction model was updated (feel free to ask for the rest of them).
 
 ## Repository Structure
 - code: Contains the scripts and code files used in the analysis and prediction.
