@@ -1,4 +1,4 @@
-# A fintech project: Easy Money 💰 - WIP
+# A fintech project: Easy Money 💰
 This project contains the code and associated documentation for the data analysis conducted for EasyMoney. The analysis is divided into three main parts: Analysis of the Current Situation, Customer Portfolio Segmentation, and Sales Prediction.
 
 ### Part I: Analysis of the Current Situation
