@@ -1,4 +1,4 @@
-# Unlocking Insights: European Public Tender Analysis with RFM Clustering
+# Unlocking Insights: European Public Tender Analysis with RFM Clustering - WIP (Unfinished)
 
 In this project, I delve into the realm of European public tenders within the Information Technology (IT) sector to uncover valuable insights using RFM clustering. The goal is to identify key players in the IT sector based on their recency, frequency, and monetary value.
 
